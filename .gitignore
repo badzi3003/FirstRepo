@@ -23,12 +23,9 @@
 hs_err_pid*
 replay_pid*
 
-.idea*
-.idea.*
-/idea.*
-/**.idea
-/out.**
-/**out.
-/*out.
-.DS_Store
-.DS_Store?
+*.class 
+.idea/
+lib/
+out/
+*.DS_Store
+*.iml
